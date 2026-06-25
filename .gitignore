@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+data/
+*.db
+run_log.txt
+git_*.txt
+.DS_Store
+.streamlit/secrets.toml
